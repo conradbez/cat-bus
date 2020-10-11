@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl 'https://www.transperth.wa.gov.au/DesktopModules/CatLiveTimesMap/API/CatLiveTimesMapApi/GetLiveCatInfo'  -H 'RequestVerificationToken: 6W2b1Gh7-tWUpkaYNvcFrbyAJhd8m6W5AiiaJ_sg-I1o5vB5UrpcFz1uxJliQGC803SbFJdvpzG83jwCOYZ5j5HcsSwDDD1R_t-U3fXxZ5nAZ_jg46DYpB0lfqg1' | jq . > incidents.json
+        curl 'https://www.transperth.wa.gov.au/DesktopModules/CatLiveTimesMap/API/CatLiveTimesMapApi/GetLiveCatInfo' -X 'POST' -H 'Connection: keep-alive'  -H 'Content-Length: 0'  -H 'TabId: 249'  -H 'Accept: */*' -H 'RequestVerificationToken: 6W2b1Gh7-tWUpkaYNvcFrbyAJhd8m6W5AiiaJ_sg-I1o5vB5UrpcFz1uxJliQGC803SbFJdvpzG83jwCOYZ5j5HcsSwDDD1R_t-U3fXxZ5nAZ_jg46DYpB0lfqg1' -H 'X-Requested-With: XMLHttpRequest' -H 'ModuleId: 1478'  -H 'User-Agent: Mozilla/5.0 (X11; CrOS aarch64 13310.93.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.133 Safari/537.36' -H 'Origin: https://www.transperth.wa.gov.au'  -H 'Sec-Fetch-Site: same-origin'  -H 'Sec-Fetch-Mode: cors' -H 'Sec-Fetch-Dest: empty'  -H 'Referer: https://www.transperth.wa.gov.au/timetables/live-perth-cat-times'  -H 'Accept-Language: en-AU,en;q=0.9,af-ZA;q=0.8,af;q=0.7,en-GB;q=0.6,en-US;q=0.5'  -H 'Cookie: dnn_IsMobile=False; language=en-AU; .ASPXANONYMOUS=mf7lVT_W1gEkAAAAYTM4ODkwMzgtN2QyZC00MDFmLTlkZDktOWFmZGE2MjA3YTUy0; ASP.NET_SessionId=5c2gkwebwlwjspstyg4v1oyj; __RequestVerificationToken=q2CAUwbRKl1UMtQYCdK5t4oSz-KXsUcxOzFEftrYNgfFsCw6FLiT1W1-WK_oVGbF55swqdb0Cg88j4GWJCdXHlTwA_1rWqmLZkBR-ZuchjSs9349XZ8KeoDItuY1'  --compressed | jq . > incidents.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
