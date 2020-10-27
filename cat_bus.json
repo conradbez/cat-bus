@@ -3,303 +3,51 @@
   "data": {
     "Buses": [
       {
-        "RouteId": 2,
-        "BusId": 2139,
-        "ETA": 135,
-        "LastStopId": 231,
-        "NextStopId": 201,
-        "LatLng": {
-          "Latitude": -31.952150054560736,
-          "Longitude": 115.86080682236536
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_291.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
         "RouteId": 3,
         "BusId": 2140,
-        "ETA": 75,
-        "LastStopId": 333,
-        "NextStopId": 334,
+        "ETA": -286,
+        "LastStopId": 314,
+        "NextStopId": 315,
         "LatLng": {
-          "Latitude": -31.946347352149814,
-          "Longitude": 115.83938186755171
+          "Latitude": -31.950979381060378,
+          "Longitude": 115.8705276999228
         },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_111.png",
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_91.png",
         "ImageWidth": 40,
         "ImageHeight": 40
       },
       {
         "RouteId": 3,
         "BusId": 2141,
-        "ETA": 9,
-        "LastStopId": 305,
-        "NextStopId": 306,
+        "ETA": 23,
+        "LastStopId": 322,
+        "NextStopId": 323,
         "LatLng": {
-          "Latitude": -31.954446692867187,
-          "Longitude": 115.8678080552356
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_111.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 3,
-        "BusId": 2143,
-        "ETA": -3,
-        "LastStopId": 328,
-        "NextStopId": 329,
-        "LatLng": {
-          "Latitude": -31.95112,
-          "Longitude": 115.85759
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 1,
-        "BusId": 2144,
-        "ETA": 12,
-        "LastStopId": 106,
-        "NextStopId": 107,
-        "LatLng": {
-          "Latitude": -31.95103503975035,
-          "Longitude": 115.8617615711555
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/blueCat/bus_22.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 3,
-        "BusId": 2145,
-        "ETA": -8,
-        "LastStopId": 336,
-        "NextStopId": 302,
-        "LatLng": {
-          "Latitude": -31.950643114464054,
-          "Longitude": 115.85611920173562
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_111.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 2,
-        "BusId": 2610,
-        "ETA": 65,
-        "LastStopId": 204,
-        "NextStopId": 205,
-        "LatLng": {
-          "Latitude": -31.95709,
-          "Longitude": 115.8717
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 2,
-        "BusId": 2618,
-        "ETA": -3,
-        "LastStopId": 219,
-        "NextStopId": 221,
-        "LatLng": {
-          "Latitude": -31.9502318456149,
-          "Longitude": 115.84678845879318
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_290.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 2,
-        "BusId": 2620,
-        "ETA": 242,
-        "LastStopId": 206,
-        "NextStopId": 207,
-        "LatLng": {
-          "Latitude": -31.95871036787759,
-          "Longitude": 115.87795895863822
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_94.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 8,
-        "BusId": 2622,
-        "ETA": -82,
-        "LastStopId": 811,
-        "NextStopId": 812,
-        "LatLng": {
-          "Latitude": -31.94076227530568,
-          "Longitude": 115.84014655198743
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/greenCat/bus_180.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 3,
-        "BusId": 2623,
-        "ETA": -5,
-        "LastStopId": 314,
-        "NextStopId": 315,
-        "LatLng": {
-          "Latitude": -31.95097329601486,
-          "Longitude": 115.87030864644872
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_271.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 2,
-        "BusId": 2624,
-        "ETA": 39,
-        "LastStopId": 226,
-        "NextStopId": 227,
-        "LatLng": {
-          "Latitude": -31.948821357865235,
-          "Longitude": 115.84461159572187
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_21.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 2,
-        "BusId": 2625,
-        "ETA": 51,
-        "LastStopId": 224,
-        "NextStopId": 225,
-        "LatLng": {
-          "Latitude": -31.949543033802478,
-          "Longitude": 115.83926851226765
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_200.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 1,
-        "BusId": 2627,
-        "ETA": -9,
-        "LastStopId": 122,
-        "NextStopId": 198,
-        "LatLng": {
-          "Latitude": -31.95727,
-          "Longitude": 115.85503
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/blueCat/bus_.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 8,
-        "BusId": 2628,
-        "ETA": 40,
-        "LastStopId": 804,
-        "NextStopId": 805,
-        "LatLng": {
-          "Latitude": -31.953077401484027,
-          "Longitude": 115.84706390849922
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/greenCat/bus_246.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 2,
-        "BusId": 2629,
-        "ETA": 125,
-        "LastStopId": 217,
-        "NextStopId": 218,
-        "LatLng": {
-          "Latitude": -31.95331357417125,
-          "Longitude": 115.85610503879023
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_291.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 3,
-        "BusId": 2630,
-        "ETA": -279,
-        "LastStopId": 314,
-        "NextStopId": 315,
-        "LatLng": {
-          "Latitude": -31.950975524100272,
-          "Longitude": 115.8703888529597
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_271.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 8,
-        "BusId": 2633,
-        "ETA": 7,
-        "LastStopId": 813,
-        "NextStopId": 814,
-        "LatLng": {
-          "Latitude": -31.94669112767045,
-          "Longitude": 115.84428304757881
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/greenCat/bus_288.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 8,
-        "BusId": 2634,
-        "ETA": 56,
-        "LastStopId": 819,
-        "NextStopId": 820,
-        "LatLng": {
-          "Latitude": -31.953495125670386,
-          "Longitude": 115.85274381176559
-        },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/greenCat/bus_110.png",
-        "ImageWidth": 40,
-        "ImageHeight": 40
-      },
-      {
-        "RouteId": 3,
-        "BusId": 2635,
-        "ETA": 18,
-        "LastStopId": 323,
-        "NextStopId": 324,
-        "LatLng": {
-          "Latitude": -31.956285937628177,
-          "Longitude": 115.87344781247009
+          "Latitude": -31.95667548399924,
+          "Longitude": 115.87461644572637
         },
         "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_291.png",
         "ImageWidth": 40,
         "ImageHeight": 40
       },
       {
-        "RouteId": 1,
-        "BusId": 2666,
-        "ETA": 49,
-        "LastStopId": 113,
-        "NextStopId": 114,
+        "RouteId": 3,
+        "BusId": 2143,
+        "ETA": 42,
+        "LastStopId": 312,
+        "NextStopId": 313,
         "LatLng": {
-          "Latitude": -31.947688856951633,
-          "Longitude": 115.85627028859565
+          "Latitude": -31.953206278836724,
+          "Longitude": 115.87612001731125
         },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/blueCat/bus_118.png",
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_88.png",
         "ImageWidth": 40,
         "ImageHeight": 40
       },
       {
         "RouteId": 1,
-        "BusId": 2667,
-        "ETA": -232,
+        "BusId": 2144,
+        "ETA": -234,
         "LastStopId": 122,
         "NextStopId": 198,
         "LatLng": {
@@ -312,27 +60,69 @@
       },
       {
         "RouteId": 2,
-        "BusId": 2668,
-        "ETA": 209,
-        "LastStopId": 228,
-        "NextStopId": 229,
+        "BusId": 2610,
+        "ETA": 2,
+        "LastStopId": 213,
+        "NextStopId": 215,
         "LatLng": {
-          "Latitude": -31.952241694768027,
-          "Longitude": 115.8567946634135
+          "Latitude": -31.951759338948232,
+          "Longitude": 115.85963380934872
         },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_110.png",
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_290.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 2,
+        "BusId": 2618,
+        "ETA": 6,
+        "LastStopId": 204,
+        "NextStopId": 205,
+        "LatLng": {
+          "Latitude": -31.95891,
+          "Longitude": 115.8733
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 2,
+        "BusId": 2619,
+        "ETA": 21,
+        "LastStopId": 213,
+        "NextStopId": 215,
+        "LatLng": {
+          "Latitude": -31.953697374960292,
+          "Longitude": 115.86070887716522
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_21.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 2,
+        "BusId": 2620,
+        "ETA": 15,
+        "LastStopId": 223,
+        "NextStopId": 224,
+        "LatLng": {
+          "Latitude": -31.94804024920418,
+          "Longitude": 115.84006483263242
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_290.png",
         "ImageWidth": 40,
         "ImageHeight": 40
       },
       {
         "RouteId": 8,
-        "BusId": 2670,
-        "ETA": -148,
+        "BusId": 2622,
+        "ETA": -286,
         "LastStopId": 820,
         "NextStopId": 801,
         "LatLng": {
-          "Latitude": -31.956223082098983,
-          "Longitude": 115.85444959399936
+          "Latitude": -31.95629279450152,
+          "Longitude": 115.85466055615255
         },
         "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/greenCat/bus_291.png",
         "ImageWidth": 40,
@@ -340,22 +130,22 @@
       },
       {
         "RouteId": 3,
-        "BusId": 2671,
-        "ETA": 21,
-        "LastStopId": 314,
-        "NextStopId": 315,
+        "BusId": 2623,
+        "ETA": -11,
+        "LastStopId": 327,
+        "NextStopId": 328,
         "LatLng": {
-          "Latitude": -31.95190877562146,
-          "Longitude": 115.87012741503449
+          "Latitude": -31.951709264273138,
+          "Longitude": 115.8594948301873
         },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_183.png",
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_290.png",
         "ImageWidth": 40,
         "ImageHeight": 40
       },
       {
         "RouteId": 2,
-        "BusId": 2672,
-        "ETA": 211,
+        "BusId": 2624,
+        "ETA": 45,
         "LastStopId": 206,
         "NextStopId": 207,
         "LatLng": {
@@ -368,13 +158,153 @@
       },
       {
         "RouteId": 2,
-        "BusId": 2673,
-        "ETA": 79,
-        "LastStopId": 209,
-        "NextStopId": 210,
+        "BusId": 2625,
+        "ETA": 2,
+        "LastStopId": 206,
+        "NextStopId": 207,
         "LatLng": {
-          "Latitude": -31.956167242488426,
-          "Longitude": 115.87308538849679
+          "Latitude": -31.95871036787759,
+          "Longitude": 115.87795895863822
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_94.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 1,
+        "BusId": 2627,
+        "ETA": -223,
+        "LastStopId": 117,
+        "NextStopId": 122,
+        "LatLng": {
+          "Latitude": -31.956598242084223,
+          "Longitude": 115.8550137308085
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/blueCat/bus_296.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 8,
+        "BusId": 2628,
+        "ETA": 134,
+        "LastStopId": 815,
+        "NextStopId": 816,
+        "LatLng": {
+          "Latitude": -31.949067526507324,
+          "Longitude": 115.84201117301798
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/greenCat/bus_203.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 2,
+        "BusId": 2629,
+        "ETA": 71,
+        "LastStopId": 231,
+        "NextStopId": 201,
+        "LatLng": {
+          "Latitude": -31.952701120895025,
+          "Longitude": 115.86252278569043
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_110.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 3,
+        "BusId": 2630,
+        "ETA": 25,
+        "LastStopId": 333,
+        "NextStopId": 334,
+        "LatLng": {
+          "Latitude": -31.94633001423061,
+          "Longitude": 115.83932338546569
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_107.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 8,
+        "BusId": 2633,
+        "ETA": 45,
+        "LastStopId": 807,
+        "NextStopId": 808,
+        "LatLng": {
+          "Latitude": -31.94790198362511,
+          "Longitude": 115.84253087684667
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/greenCat/bus_19.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 8,
+        "BusId": 2634,
+        "ETA": 121,
+        "LastStopId": 810,
+        "NextStopId": 811,
+        "LatLng": {
+          "Latitude": -31.943475489626813,
+          "Longitude": 115.84221729965137
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/greenCat/bus_292.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 3,
+        "BusId": 2635,
+        "ETA": 33,
+        "LastStopId": 304,
+        "NextStopId": 305,
+        "LatLng": {
+          "Latitude": -31.95289170838241,
+          "Longitude": 115.86310345840775
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_110.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 1,
+        "BusId": 2666,
+        "ETA": 36,
+        "LastStopId": 198,
+        "NextStopId": 119,
+        "LatLng": {
+          "Latitude": -31.95841,
+          "Longitude": 115.85851
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/blueCat/bus_.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 1,
+        "BusId": 2667,
+        "ETA": 65,
+        "LastStopId": 116,
+        "NextStopId": 117,
+        "LatLng": {
+          "Latitude": -31.951092426532842,
+          "Longitude": 115.85899339290138
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/blueCat/bus_274.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 2,
+        "BusId": 2668,
+        "ETA": 36,
+        "LastStopId": 210,
+        "NextStopId": 211,
+        "LatLng": {
+          "Latitude": -31.958107450682554,
+          "Longitude": 115.8708962922497
         },
         "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_291.png",
         "ImageWidth": 40,
@@ -382,43 +312,99 @@
       },
       {
         "RouteId": 8,
-        "BusId": 2674,
-        "ETA": 215,
+        "BusId": 2670,
+        "ETA": 129,
         "LastStopId": 811,
         "NextStopId": 812,
         "LatLng": {
-          "Latitude": -31.940490459809375,
-          "Longitude": 115.84122990315441
+          "Latitude": -31.943475853484543,
+          "Longitude": 115.8422183119137
         },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/greenCat/bus_130.png",
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/greenCat/bus_112.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 3,
+        "BusId": 2671,
+        "ETA": 15,
+        "LastStopId": 333,
+        "NextStopId": 334,
+        "LatLng": {
+          "Latitude": -31.94740375687621,
+          "Longitude": 115.84254961415438
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_111.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 2,
+        "BusId": 2672,
+        "ETA": 37,
+        "LastStopId": 221,
+        "NextStopId": 222,
+        "LatLng": {
+          "Latitude": -31.95004140513746,
+          "Longitude": 115.84619837216178
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_290.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 2,
+        "BusId": 2673,
+        "ETA": 37,
+        "LastStopId": 227,
+        "NextStopId": 228,
+        "LatLng": {
+          "Latitude": -31.94925373003538,
+          "Longitude": 115.84767131057745
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_110.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 8,
+        "BusId": 2674,
+        "ETA": 267,
+        "LastStopId": 820,
+        "NextStopId": 801,
+        "LatLng": {
+          "Latitude": -31.953606434869666,
+          "Longitude": 115.85306625951894
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/greenCat/bus_200.png",
         "ImageWidth": 40,
         "ImageHeight": 40
       },
       {
         "RouteId": 1,
         "BusId": 2675,
-        "ETA": 7,
-        "LastStopId": 117,
-        "NextStopId": 122,
+        "ETA": 74,
+        "LastStopId": 109,
+        "NextStopId": 110,
         "LatLng": {
-          "Latitude": -31.95574212724209,
-          "Longitude": 115.85454185677176
+          "Latitude": -31.947517472280634,
+          "Longitude": 115.86104835189664
         },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/blueCat/bus_291.png",
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/blueCat/bus_298.png",
         "ImageWidth": 40,
         "ImageHeight": 40
       },
       {
         "RouteId": 2,
         "BusId": 2676,
-        "ETA": 54,
-        "LastStopId": 213,
-        "NextStopId": 215,
+        "ETA": 84,
+        "LastStopId": 229,
+        "NextStopId": 231,
         "LatLng": {
-          "Latitude": -31.95467310118725,
-          "Longitude": 115.86037053683805
+          "Latitude": -31.95170901447408,
+          "Longitude": 115.8578441788394
         },
-        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_290.png",
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_22.png",
         "ImageWidth": 40,
         "ImageHeight": 40
       }
@@ -428,772 +414,772 @@
         "RouteStopId": 101,
         "Name": "N/A",
         "Description": "Blue",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 102,
         "Name": "N/A",
         "Description": "Blue",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 103,
         "Name": "N/A",
         "Description": "Blue",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 104,
         "Name": "N/A",
         "Description": "Blue",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 105,
         "Name": "N/A",
         "Description": "Blue",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 106,
         "Name": "Beaufort St Bridge",
         "Description": "Blue",
-        "ETA": 483
+        "ETA": 317
       },
       {
         "RouteStopId": 107,
         "Name": "Museum",
         "Description": "Blue",
-        "ETA": 13
+        "ETA": 417
       },
       {
         "RouteStopId": 108,
         "Name": "Arts Centre",
         "Description": "Blue",
-        "ETA": 113
+        "ETA": 517
       },
       {
         "RouteStopId": 109,
         "Name": "Central Institute",
         "Description": "Blue",
-        "ETA": 213
+        "ETA": 617
       },
       {
         "RouteStopId": 110,
         "Name": "Aberdeen Street",
         "Description": "Blue",
-        "ETA": 313
+        "ETA": 75
       },
       {
         "RouteStopId": 111,
         "Name": "Francis Street",
         "Description": "Blue",
-        "ETA": 413
+        "ETA": 175
       },
       {
         "RouteStopId": 112,
         "Name": "Russell Square",
         "Description": "Blue",
-        "ETA": 513
+        "ETA": 275
       },
       {
         "RouteStopId": 113,
         "Name": "Northbridge",
         "Description": "Blue",
-        "ETA": 613
+        "ETA": 375
       },
       {
         "RouteStopId": 114,
         "Name": "James Street",
         "Description": "Blue",
-        "ETA": 50
+        "ETA": 475
       },
       {
         "RouteStopId": 116,
         "Name": "Horseshoe Bridge",
         "Description": "Blue",
-        "ETA": 150
+        "ETA": 575
       },
       {
         "RouteStopId": 117,
         "Name": "Perth Underground",
         "Description": "Blue",
-        "ETA": 250
+        "ETA": 66
       },
       {
         "RouteStopId": 118,
         "Name": "N/A",
         "Description": "Blue",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 119,
         "Name": "Barrack Square",
         "Description": "Blue",
-        "ETA": 234
+        "ETA": 37
       },
       {
         "RouteStopId": 120,
         "Name": "N/A",
         "Description": "Blue",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 121,
         "Name": "N/A",
         "Description": "Blue",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 122,
         "Name": "Elizabeth Quay Bus Station",
         "Description": "Blue",
-        "ETA": 8
+        "ETA": -222
       },
       {
         "RouteStopId": 123,
         "Name": "N/A",
         "Description": "Blue",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 198,
         "Name": "N/A",
         "Description": "Blue",
-        "ETA": -8
+        "ETA": 107
       },
       {
         "RouteStopId": 199,
         "Name": "N/A",
         "Description": "Blue",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 201,
         "Name": "Murray Street",
         "Description": "Red",
-        "ETA": 136
+        "ETA": 72
       },
       {
         "RouteStopId": 202,
         "Name": "Royal Perth Hospital",
         "Description": "Red",
-        "ETA": 236
+        "ETA": 172
       },
       {
         "RouteStopId": 203,
         "Name": "Mercedes College",
         "Description": "Red",
-        "ETA": 336
+        "ETA": 272
       },
       {
         "RouteStopId": 204,
         "Name": "Bennet Street",
         "Description": "Red",
-        "ETA": 436
+        "ETA": 372
       },
       {
         "RouteStopId": 205,
         "Name": "Queens Gardens",
         "Description": "Red",
-        "ETA": 66
+        "ETA": 7
       },
       {
         "RouteStopId": 206,
         "Name": "WACA",
         "Description": "Red",
-        "ETA": 196
+        "ETA": 137
       },
       {
         "RouteStopId": 207,
         "Name": "Don Aitken Centre",
         "Description": "Red",
-        "ETA": 212
+        "ETA": 3
       },
       {
         "RouteStopId": 208,
         "Name": "Plain Street",
         "Description": "Red",
-        "ETA": 312
+        "ETA": 103
       },
       {
         "RouteStopId": 209,
         "Name": "Wellington Square",
         "Description": "Red",
-        "ETA": 397
+        "ETA": 203
       },
       {
         "RouteStopId": 210,
         "Name": "Carlton",
         "Description": "Red",
-        "ETA": 80
+        "ETA": 333
       },
       {
         "RouteStopId": 211,
         "Name": "Perth Mint",
         "Description": "Red",
-        "ETA": 180
+        "ETA": 37
       },
       {
         "RouteStopId": 212,
         "Name": "Victoria Avenue",
         "Description": "Red",
-        "ETA": 280
+        "ETA": 137
       },
       {
         "RouteStopId": 213,
         "Name": "Town Hall",
         "Description": "Red",
-        "ETA": 400
+        "ETA": 257
       },
       {
         "RouteStopId": 214,
         "Name": "Murray St Mall East",
         "Description": "Red",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 215,
         "Name": "Forrest Place",
         "Description": "Red",
-        "ETA": 55
+        "ETA": 3
       },
       {
         "RouteStopId": 216,
         "Name": "Perth Underground",
         "Description": "Red",
-        "ETA": 185
+        "ETA": 133
       },
       {
         "RouteStopId": 217,
         "Name": "Central Park",
         "Description": "Red",
-        "ETA": 285
+        "ETA": 233
       },
       {
         "RouteStopId": 218,
         "Name": "His Majesty's",
         "Description": "Red",
-        "ETA": 126
+        "ETA": 363
       },
       {
         "RouteStopId": 219,
         "Name": "QV1",
         "Description": "Red",
-        "ETA": 226
+        "ETA": 463
       },
       {
         "RouteStopId": 220,
         "Name": "Freeway",
         "Description": "Red",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 221,
         "Name": "Parliament",
         "Description": "Red",
-        "ETA": -2
+        "ETA": 553
       },
       {
         "RouteStopId": 222,
         "Name": "Emerald Tce",
         "Description": "Red",
-        "ETA": 98
+        "ETA": 38
       },
       {
         "RouteStopId": 223,
         "Name": "West Perth",
         "Description": "Red",
-        "ETA": 198
+        "ETA": 138
       },
       {
         "RouteStopId": 224,
         "Name": "Outram Street",
         "Description": "Red",
-        "ETA": 283
+        "ETA": 16
       },
       {
         "RouteStopId": 225,
         "Name": "Ord Street",
         "Description": "Red",
-        "ETA": 52
+        "ETA": 116
       },
       {
         "RouteStopId": 226,
         "Name": "Havelock Street",
         "Description": "Red",
-        "ETA": 152
+        "ETA": 216
       },
       {
         "RouteStopId": 227,
         "Name": "Gordon Street",
         "Description": "Red",
-        "ETA": 40
+        "ETA": 386
       },
       {
         "RouteStopId": 228,
         "Name": "Milligan Street",
         "Description": "Red",
-        "ETA": 155
+        "ETA": 38
       },
       {
         "RouteStopId": 229,
         "Name": "Raine Square",
         "Description": "Red",
-        "ETA": 315
+        "ETA": 198
       },
       {
         "RouteStopId": 230,
         "Name": "Wellington Street Bus Station",
         "Description": "Red",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 231,
         "Name": "Perth Train Station",
         "Description": "Red",
-        "ETA": 210
+        "ETA": 85
       },
       {
         "RouteStopId": 232,
         "Name": "Perth Arena",
         "Description": "Red",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 299,
         "Name": "Temporary Stop",
         "Description": "Red",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 302,
         "Name": "Yagan Sq.",
         "Description": "Yellow",
-        "ETA": -7
+        "ETA": 271
       },
       {
         "RouteStopId": 303,
         "Name": "Perth Train Station (Yellow)",
         "Description": "Yellow",
-        "ETA": 78
+        "ETA": 356
       },
       {
         "RouteStopId": 304,
         "Name": "Pier Street",
         "Description": "Yellow",
-        "ETA": 178
+        "ETA": 456
       },
       {
         "RouteStopId": 305,
         "Name": "Royal Perth Hospital North",
         "Description": "Yellow",
-        "ETA": 263
+        "ETA": 34
       },
       {
         "RouteStopId": 306,
         "Name": "Wellington Fair",
         "Description": "Yellow",
-        "ETA": 10
+        "ETA": 119
       },
       {
         "RouteStopId": 307,
         "Name": "Wellington Square North",
         "Description": "Yellow",
-        "ETA": 95
+        "ETA": 204
       },
       {
         "RouteStopId": 308,
         "Name": "Police Traffic Branch",
         "Description": "Yellow",
-        "ETA": 180
+        "ETA": 289
       },
       {
         "RouteStopId": 309,
         "Name": "Main Roads",
         "Description": "Yellow",
-        "ETA": 265
+        "ETA": 374
       },
       {
         "RouteStopId": 310,
         "Name": "East Perth Cemeteries",
         "Description": "Yellow",
-        "ETA": 350
+        "ETA": 459
       },
       {
         "RouteStopId": 311,
         "Name": "Haig Park Circle",
         "Description": "Yellow",
-        "ETA": 435
+        "ETA": 544
       },
       {
         "RouteStopId": 312,
         "Name": "Regal Place",
         "Description": "Yellow",
-        "ETA": 520
+        "ETA": 629
       },
       {
         "RouteStopId": 313,
         "Name": "Education Department",
         "Description": "Yellow",
-        "ETA": 605
+        "ETA": 43
       },
       {
         "RouteStopId": 314,
         "Name": "Health Department",
         "Description": "Yellow",
-        "ETA": 690
+        "ETA": 128
       },
       {
         "RouteStopId": 315,
         "Name": "Claisebrook Station",
         "Description": "Yellow",
-        "ETA": 22
+        "ETA": 213
       },
       {
         "RouteStopId": 316,
         "Name": "Royal Street Car Park",
         "Description": "Yellow",
-        "ETA": 67
+        "ETA": 258
       },
       {
         "RouteStopId": 317,
         "Name": "Central Institute",
         "Description": "Yellow",
-        "ETA": 152
+        "ETA": 343
       },
       {
         "RouteStopId": 318,
         "Name": "Royal Square",
         "Description": "Yellow",
-        "ETA": 237
+        "ETA": 428
       },
       {
         "RouteStopId": 319,
         "Name": "Victoria Gardens",
         "Description": "Yellow",
-        "ETA": 322
+        "ETA": 513
       },
       {
         "RouteStopId": 320,
         "Name": "Nile Street",
         "Description": "Yellow",
-        "ETA": 407
+        "ETA": 598
       },
       {
         "RouteStopId": 321,
         "Name": "Don Aitken Centre",
         "Description": "Yellow",
-        "ETA": 492
+        "ETA": 683
       },
       {
         "RouteStopId": 322,
         "Name": "Plain Street",
         "Description": "Yellow",
-        "ETA": 577
+        "ETA": 768
       },
       {
         "RouteStopId": 323,
         "Name": "Wellington Square",
         "Description": "Yellow",
-        "ETA": 662
+        "ETA": 24
       },
       {
         "RouteStopId": 324,
         "Name": "Hill Street",
         "Description": "Yellow",
-        "ETA": 19
+        "ETA": 109
       },
       {
         "RouteStopId": 325,
         "Name": "Lord Street",
         "Description": "Yellow",
-        "ETA": 104
+        "ETA": 194
       },
       {
         "RouteStopId": 326,
         "Name": "Royal Perth Hospital South",
         "Description": "Yellow",
-        "ETA": 189
+        "ETA": 279
       },
       {
         "RouteStopId": 327,
         "Name": "Western Power",
         "Description": "Yellow",
-        "ETA": 274
+        "ETA": 364
       },
       {
         "RouteStopId": 328,
         "Name": "Forrest Place",
         "Description": "Yellow",
-        "ETA": 359
+        "ETA": -10
       },
       {
         "RouteStopId": 329,
         "Name": "Raine Square",
         "Description": "Yellow",
-        "ETA": -2
+        "ETA": 75
       },
       {
         "RouteStopId": 330,
         "Name": "Perth Arena",
         "Description": "Yellow",
-        "ETA": 43
+        "ETA": 120
       },
       {
         "RouteStopId": 331,
         "Name": "Sutherland Street",
         "Description": "Yellow",
-        "ETA": 128
+        "ETA": 205
       },
       {
         "RouteStopId": 332,
         "Name": "Colin Street North",
         "Description": "Yellow",
-        "ETA": 298
+        "ETA": 375
       },
       {
         "RouteStopId": 333,
         "Name": "Thomas Street",
         "Description": "Yellow",
-        "ETA": 383
+        "ETA": 460
       },
       {
         "RouteStopId": 334,
         "Name": "Harold Boas North",
         "Description": "Yellow",
-        "ETA": 76
+        "ETA": 16
       },
       {
         "RouteStopId": 335,
         "Name": "Sutherland Street",
         "Description": "Yellow",
-        "ETA": 161
+        "ETA": 101
       },
       {
         "RouteStopId": 336,
         "Name": "Perth Arena",
         "Description": "Yellow",
-        "ETA": 246
+        "ETA": 186
       },
       {
         "RouteStopId": 337,
         "Name": "Harold Boas South",
         "Description": "Yellow",
-        "ETA": 213
+        "ETA": 290
       },
       {
         "RouteStopId": 401,
         "Name": "Perth Underground",
         "Description": "Red Short",
-        "ETA": 21
+        "ETA": 450
       },
       {
         "RouteStopId": 402,
         "Name": "Central Park",
         "Description": "Red Short",
-        "ETA": 106
+        "ETA": 535
       },
       {
         "RouteStopId": 403,
         "Name": "His Majesty's",
         "Description": "Red Short",
-        "ETA": 191
+        "ETA": 620
       },
       {
         "RouteStopId": 404,
         "Name": "QV1",
         "Description": "Red Short",
-        "ETA": 276
+        "ETA": 705
       },
       {
         "RouteStopId": 405,
         "Name": "Freeway",
         "Description": "Red Short",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 406,
         "Name": "Parliament",
         "Description": "Red Short",
-        "ETA": 361
+        "ETA": -10
       },
       {
         "RouteStopId": 407,
         "Name": "Emerald Tce",
         "Description": "Red Short",
-        "ETA": 446
+        "ETA": 75
       },
       {
         "RouteStopId": 408,
         "Name": "West Perth",
         "Description": "Red Short",
-        "ETA": 531
+        "ETA": 160
       },
       {
         "RouteStopId": 409,
         "Name": "Outram Street",
         "Description": "Red Short",
-        "ETA": 62
+        "ETA": 245
       },
       {
         "RouteStopId": 410,
         "Name": "Ord Street",
         "Description": "Red Short",
-        "ETA": 147
+        "ETA": 65
       },
       {
         "RouteStopId": 411,
         "Name": "Havelock Street",
         "Description": "Red Short",
-        "ETA": 232
+        "ETA": 150
       },
       {
         "RouteStopId": 412,
         "Name": "Gordon Street",
         "Description": "Red Short",
-        "ETA": 317
+        "ETA": 235
       },
       {
         "RouteStopId": 413,
         "Name": "Milligan Street",
         "Description": "Red Short",
-        "ETA": 402
+        "ETA": 320
       },
       {
         "RouteStopId": 414,
         "Name": "Raine Square",
         "Description": "Red Short",
-        "ETA": 487
+        "ETA": 405
       },
       {
         "RouteStopId": 415,
         "Name": "Wellington Street Bus Station",
         "Description": "Red Short",
-        "ETA": -1603764583
+        "ETA": -1603766162
       },
       {
         "RouteStopId": 801,
         "Name": "Elizabeth Quay Bus Station",
         "Description": "Green",
-        "ETA": 397
+        "ETA": 268
       },
       {
         "RouteStopId": 802,
         "Name": "Mill Street",
         "Description": "Green",
-        "ETA": 1117
+        "ETA": 988
       },
       {
         "RouteStopId": 803,
         "Name": "Milligan Street",
         "Description": "Green",
-        "ETA": 1177
+        "ETA": 1048
       },
       {
         "RouteStopId": 804,
         "Name": "Harvest Tce",
         "Description": "Green",
-        "ETA": 1277
+        "ETA": 1108
       },
       {
         "RouteStopId": 805,
         "Name": "Havelock Street",
         "Description": "Green",
-        "ETA": 41
+        "ETA": 1208
       },
       {
         "RouteStopId": 806,
         "Name": "Ord Street",
         "Description": "Green",
-        "ETA": 141
+        "ETA": 1308
       },
       {
         "RouteStopId": 807,
         "Name": "Hay Street",
         "Description": "Green",
-        "ETA": 241
+        "ETA": 1408
       },
       {
         "RouteStopId": 808,
         "Name": "Harold Boas Gardens",
         "Description": "Green",
-        "ETA": 341
+        "ETA": 46
       },
       {
         "RouteStopId": 809,
         "Name": "Sutherland Street",
         "Description": "Green",
-        "ETA": 441
+        "ETA": 146
       },
       {
         "RouteStopId": 810,
         "Name": "City West Station",
         "Description": "Green",
-        "ETA": 541
+        "ETA": 246
       },
       {
         "RouteStopId": 811,
         "Name": "Leederville Station",
         "Description": "Green",
-        "ETA": 771
+        "ETA": 122
       },
       {
         "RouteStopId": 812,
         "Name": "City West Station",
         "Description": "Green",
-        "ETA": 216
+        "ETA": 130
       },
       {
         "RouteStopId": 813,
         "Name": "Sutherland Street",
         "Description": "Green",
-        "ETA": 316
+        "ETA": 230
       },
       {
         "RouteStopId": 814,
         "Name": "Harold Boas Gardens",
         "Description": "Green",
-        "ETA": 8
+        "ETA": 330
       },
       {
         "RouteStopId": 815,
         "Name": "Hay Street",
         "Description": "Green",
-        "ETA": 108
+        "ETA": 430
       },
       {
         "RouteStopId": 816,
         "Name": "Kings Park Road",
         "Description": "Green",
-        "ETA": 278
+        "ETA": 135
       },
       {
         "RouteStopId": 817,
         "Name": "Havelock Street",
         "Description": "Green",
-        "ETA": 378
+        "ETA": 195
       },
       {
         "RouteStopId": 818,
         "Name": "Harvest Tce",
         "Description": "Green",
-        "ETA": 478
+        "ETA": 295
       },
       {
         "RouteStopId": 819,
         "Name": "Milligan Street",
         "Description": "Green",
-        "ETA": 578
+        "ETA": 395
       },
       {
         "RouteStopId": 820,
         "Name": "Cloisters",
         "Description": "Green",
-        "ETA": 57
+        "ETA": 585
       }
     ],
-    "LastUpdated": "2020-10-27T10:09:42+08:00",
+    "LastUpdated": "2020-10-27T10:36:01+08:00",
     "ShowBusCount": false
   }
 }
