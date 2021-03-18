@@ -1,0 +1,821 @@
+{
+  "result": "success",
+  "data": {
+    "Buses": [
+      {
+        "RouteId": 2,
+        "BusId": 2619,
+        "ETA": 54,
+        "LastStopId": 226,
+        "NextStopId": 227,
+        "LatLng": {
+          "Latitude": -31.948821357865235,
+          "Longitude": 115.84461159572187
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_21.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 2,
+        "BusId": 2631,
+        "ETA": 135,
+        "LastStopId": 231,
+        "NextStopId": 201,
+        "LatLng": {
+          "Latitude": -31.952152938679408,
+          "Longitude": 115.86081547482897
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/redCat/bus_291.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      },
+      {
+        "RouteId": 3,
+        "BusId": 2669,
+        "ETA": 91,
+        "LastStopId": 303,
+        "NextStopId": 304,
+        "LatLng": {
+          "Latitude": -31.95196,
+          "Longitude": 115.86048
+        },
+        "ImageUrl": "/Portals/0/Asset/Images/LiveCatTimes/yellowCat/bus_.png",
+        "ImageWidth": 40,
+        "ImageHeight": 40
+      }
+    ],
+    "Stops": [
+      {
+        "RouteStopId": 101,
+        "Name": "N/A",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 102,
+        "Name": "N/A",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 103,
+        "Name": "N/A",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 104,
+        "Name": "N/A",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 105,
+        "Name": "N/A",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 106,
+        "Name": "Beaufort St Bridge",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 107,
+        "Name": "Museum",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 108,
+        "Name": "Arts Centre",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 109,
+        "Name": "Central Institute",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 110,
+        "Name": "Aberdeen Street",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 111,
+        "Name": "Francis Street",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 112,
+        "Name": "Russell Square",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 113,
+        "Name": "Northbridge",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 114,
+        "Name": "James Street",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 116,
+        "Name": "Horseshoe Bridge",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 117,
+        "Name": "Perth Underground",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 118,
+        "Name": "N/A",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 119,
+        "Name": "Barrack Square",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 120,
+        "Name": "N/A",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 121,
+        "Name": "N/A",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 122,
+        "Name": "Elizabeth Quay Bus Station",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 123,
+        "Name": "N/A",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 198,
+        "Name": "N/A",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 199,
+        "Name": "N/A",
+        "Description": "Blue",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 201,
+        "Name": "Murray Street",
+        "Description": "Red",
+        "ETA": 136
+      },
+      {
+        "RouteStopId": 202,
+        "Name": "Royal Perth Hospital",
+        "Description": "Red",
+        "ETA": 236
+      },
+      {
+        "RouteStopId": 203,
+        "Name": "Mercedes College",
+        "Description": "Red",
+        "ETA": 336
+      },
+      {
+        "RouteStopId": 204,
+        "Name": "Bennet Street",
+        "Description": "Red",
+        "ETA": 436
+      },
+      {
+        "RouteStopId": 205,
+        "Name": "Queens Gardens",
+        "Description": "Red",
+        "ETA": 566
+      },
+      {
+        "RouteStopId": 206,
+        "Name": "WACA",
+        "Description": "Red",
+        "ETA": 696
+      },
+      {
+        "RouteStopId": 207,
+        "Name": "Don Aitken Centre",
+        "Description": "Red",
+        "ETA": 756
+      },
+      {
+        "RouteStopId": 208,
+        "Name": "Plain Street",
+        "Description": "Red",
+        "ETA": 856
+      },
+      {
+        "RouteStopId": 209,
+        "Name": "Wellington Square",
+        "Description": "Red",
+        "ETA": 956
+      },
+      {
+        "RouteStopId": 210,
+        "Name": "Carlton",
+        "Description": "Red",
+        "ETA": 1086
+      },
+      {
+        "RouteStopId": 211,
+        "Name": "Perth Mint",
+        "Description": "Red",
+        "ETA": 1186
+      },
+      {
+        "RouteStopId": 212,
+        "Name": "Victoria Avenue",
+        "Description": "Red",
+        "ETA": 1286
+      },
+      {
+        "RouteStopId": 213,
+        "Name": "Town Hall",
+        "Description": "Red",
+        "ETA": 1406
+      },
+      {
+        "RouteStopId": 214,
+        "Name": "Murray St Mall East",
+        "Description": "Red",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 215,
+        "Name": "Forrest Place",
+        "Description": "Red",
+        "ETA": 1506
+      },
+      {
+        "RouteStopId": 216,
+        "Name": "Perth Underground",
+        "Description": "Red",
+        "ETA": 1636
+      },
+      {
+        "RouteStopId": 217,
+        "Name": "Central Park",
+        "Description": "Red",
+        "ETA": 1736
+      },
+      {
+        "RouteStopId": 218,
+        "Name": "His Majesty's",
+        "Description": "Red",
+        "ETA": 1866
+      },
+      {
+        "RouteStopId": 219,
+        "Name": "QV1",
+        "Description": "Red",
+        "ETA": 1966
+      },
+      {
+        "RouteStopId": 220,
+        "Name": "Freeway",
+        "Description": "Red",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 221,
+        "Name": "Parliament",
+        "Description": "Red",
+        "ETA": 2056
+      },
+      {
+        "RouteStopId": 222,
+        "Name": "Emerald Tce",
+        "Description": "Red",
+        "ETA": 2156
+      },
+      {
+        "RouteStopId": 223,
+        "Name": "West Perth",
+        "Description": "Red",
+        "ETA": 2256
+      },
+      {
+        "RouteStopId": 224,
+        "Name": "Outram Street",
+        "Description": "Red",
+        "ETA": 2341
+      },
+      {
+        "RouteStopId": 225,
+        "Name": "Ord Street",
+        "Description": "Red",
+        "ETA": 2441
+      },
+      {
+        "RouteStopId": 226,
+        "Name": "Havelock Street",
+        "Description": "Red",
+        "ETA": 2541
+      },
+      {
+        "RouteStopId": 227,
+        "Name": "Gordon Street",
+        "Description": "Red",
+        "ETA": 55
+      },
+      {
+        "RouteStopId": 228,
+        "Name": "Milligan Street",
+        "Description": "Red",
+        "ETA": 170
+      },
+      {
+        "RouteStopId": 229,
+        "Name": "Raine Square",
+        "Description": "Red",
+        "ETA": 330
+      },
+      {
+        "RouteStopId": 230,
+        "Name": "Wellington Street Bus Station",
+        "Description": "Red",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 231,
+        "Name": "Perth Train Station",
+        "Description": "Red",
+        "ETA": 550
+      },
+      {
+        "RouteStopId": 232,
+        "Name": "Perth Arena",
+        "Description": "Red",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 299,
+        "Name": "Temporary Stop",
+        "Description": "Red",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 302,
+        "Name": "Yagan Sq.",
+        "Description": "Yellow",
+        "ETA": 3188
+      },
+      {
+        "RouteStopId": 303,
+        "Name": "Perth Train Station (Yellow)",
+        "Description": "Yellow",
+        "ETA": 3233
+      },
+      {
+        "RouteStopId": 304,
+        "Name": "Pier Street",
+        "Description": "Yellow",
+        "ETA": 92
+      },
+      {
+        "RouteStopId": 305,
+        "Name": "Royal Perth Hospital North",
+        "Description": "Yellow",
+        "ETA": 177
+      },
+      {
+        "RouteStopId": 306,
+        "Name": "Wellington Fair",
+        "Description": "Yellow",
+        "ETA": 262
+      },
+      {
+        "RouteStopId": 307,
+        "Name": "Wellington Square North",
+        "Description": "Yellow",
+        "ETA": 347
+      },
+      {
+        "RouteStopId": 308,
+        "Name": "Police Traffic Branch",
+        "Description": "Yellow",
+        "ETA": 432
+      },
+      {
+        "RouteStopId": 309,
+        "Name": "Main Roads",
+        "Description": "Yellow",
+        "ETA": 517
+      },
+      {
+        "RouteStopId": 310,
+        "Name": "East Perth Cemeteries",
+        "Description": "Yellow",
+        "ETA": 602
+      },
+      {
+        "RouteStopId": 311,
+        "Name": "Haig Park Circle",
+        "Description": "Yellow",
+        "ETA": 687
+      },
+      {
+        "RouteStopId": 312,
+        "Name": "Regal Place",
+        "Description": "Yellow",
+        "ETA": 772
+      },
+      {
+        "RouteStopId": 313,
+        "Name": "Education Department",
+        "Description": "Yellow",
+        "ETA": 857
+      },
+      {
+        "RouteStopId": 314,
+        "Name": "Health Department",
+        "Description": "Yellow",
+        "ETA": 942
+      },
+      {
+        "RouteStopId": 315,
+        "Name": "Claisebrook Station",
+        "Description": "Yellow",
+        "ETA": 1027
+      },
+      {
+        "RouteStopId": 316,
+        "Name": "Royal Street Car Park",
+        "Description": "Yellow",
+        "ETA": 1372
+      },
+      {
+        "RouteStopId": 317,
+        "Name": "Central Institute",
+        "Description": "Yellow",
+        "ETA": 1457
+      },
+      {
+        "RouteStopId": 318,
+        "Name": "Royal Square",
+        "Description": "Yellow",
+        "ETA": 1542
+      },
+      {
+        "RouteStopId": 319,
+        "Name": "Victoria Gardens",
+        "Description": "Yellow",
+        "ETA": 1627
+      },
+      {
+        "RouteStopId": 320,
+        "Name": "Nile Street",
+        "Description": "Yellow",
+        "ETA": 1712
+      },
+      {
+        "RouteStopId": 321,
+        "Name": "Don Aitken Centre",
+        "Description": "Yellow",
+        "ETA": 1797
+      },
+      {
+        "RouteStopId": 322,
+        "Name": "Plain Street",
+        "Description": "Yellow",
+        "ETA": 1882
+      },
+      {
+        "RouteStopId": 323,
+        "Name": "Wellington Square",
+        "Description": "Yellow",
+        "ETA": 1953
+      },
+      {
+        "RouteStopId": 324,
+        "Name": "Hill Street",
+        "Description": "Yellow",
+        "ETA": 2038
+      },
+      {
+        "RouteStopId": 325,
+        "Name": "Lord Street",
+        "Description": "Yellow",
+        "ETA": 2123
+      },
+      {
+        "RouteStopId": 326,
+        "Name": "Royal Perth Hospital South",
+        "Description": "Yellow",
+        "ETA": 2208
+      },
+      {
+        "RouteStopId": 327,
+        "Name": "Western Power",
+        "Description": "Yellow",
+        "ETA": 2293
+      },
+      {
+        "RouteStopId": 328,
+        "Name": "Forrest Place",
+        "Description": "Yellow",
+        "ETA": 2378
+      },
+      {
+        "RouteStopId": 329,
+        "Name": "Raine Square",
+        "Description": "Yellow",
+        "ETA": 2463
+      },
+      {
+        "RouteStopId": 330,
+        "Name": "Perth Arena",
+        "Description": "Yellow",
+        "ETA": 2508
+      },
+      {
+        "RouteStopId": 331,
+        "Name": "Sutherland Street",
+        "Description": "Yellow",
+        "ETA": 2593
+      },
+      {
+        "RouteStopId": 332,
+        "Name": "Colin Street North",
+        "Description": "Yellow",
+        "ETA": 2763
+      },
+      {
+        "RouteStopId": 333,
+        "Name": "Thomas Street",
+        "Description": "Yellow",
+        "ETA": 2848
+      },
+      {
+        "RouteStopId": 334,
+        "Name": "Harold Boas North",
+        "Description": "Yellow",
+        "ETA": 2933
+      },
+      {
+        "RouteStopId": 335,
+        "Name": "Sutherland Street",
+        "Description": "Yellow",
+        "ETA": 3018
+      },
+      {
+        "RouteStopId": 336,
+        "Name": "Perth Arena",
+        "Description": "Yellow",
+        "ETA": 3103
+      },
+      {
+        "RouteStopId": 337,
+        "Name": "Harold Boas South",
+        "Description": "Yellow",
+        "ETA": 2678
+      },
+      {
+        "RouteStopId": 401,
+        "Name": "Perth Underground",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 402,
+        "Name": "Central Park",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 403,
+        "Name": "His Majesty's",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 404,
+        "Name": "QV1",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 405,
+        "Name": "Freeway",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 406,
+        "Name": "Parliament",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 407,
+        "Name": "Emerald Tce",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 408,
+        "Name": "West Perth",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 409,
+        "Name": "Outram Street",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 410,
+        "Name": "Ord Street",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 411,
+        "Name": "Havelock Street",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 412,
+        "Name": "Gordon Street",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 413,
+        "Name": "Milligan Street",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 414,
+        "Name": "Raine Square",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 415,
+        "Name": "Wellington Street Bus Station",
+        "Description": "Red Short",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 801,
+        "Name": "Elizabeth Quay Bus Station",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 802,
+        "Name": "Mill Street",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 803,
+        "Name": "Milligan Street",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 804,
+        "Name": "Harvest Tce",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 805,
+        "Name": "Havelock Street",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 806,
+        "Name": "Ord Street",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 807,
+        "Name": "Hay Street",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 808,
+        "Name": "Harold Boas Gardens",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 809,
+        "Name": "Sutherland Street",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 810,
+        "Name": "City West Station",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 811,
+        "Name": "Leederville Station",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 812,
+        "Name": "City West Station",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 813,
+        "Name": "Sutherland Street",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 814,
+        "Name": "Harold Boas Gardens",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 815,
+        "Name": "Hay Street",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 816,
+        "Name": "Kings Park Road",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 817,
+        "Name": "Havelock Street",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 818,
+        "Name": "Harvest Tce",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 819,
+        "Name": "Milligan Street",
+        "Description": "Green",
+        "ETA": -1602762406
+      },
+      {
+        "RouteStopId": 820,
+        "Name": "Cloisters",
+        "Description": "Green",
+        "ETA": -1602762406
+      }
+    ],
+    "LastUpdated": "2020-10-15T19:46:45+08:00",
+    "ShowBusCount": false
+  }
+}
